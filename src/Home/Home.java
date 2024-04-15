@@ -119,6 +119,7 @@ public class Home extends JFrame {
 			double result2 = num1 - Math.abs(result);
 			resultLabel.setText("피해량:  "+ crilog + String.format("%.2f", result) + " !!"); // 소수점 둘째 자리까지 표시
 			resultLabel2.setText("잔여 HP:  " + String.format("%.2f", result2)); // 소수점 둘째 자리까지 표시
+			textField1.setText(String.valueOf(result2));
 		} catch (NumberFormatException ex) {
 			// 숫자가 아닌 값이 입력된 경우 처리
 			resultLabel.setText("숫자를 입력하세요!");
