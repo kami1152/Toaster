@@ -6,45 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.base.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.controls.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.fxml.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.graphics.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.media.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.swing.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx.web.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/kami1/eclipse-workspace/javafx-sdk-22/lib/javafx-swt.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="src/lib/lombok.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsoup-1.17.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsoup-1.17.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsoup-1.17.2-sources.jar"/>
+	<classpathentry kind="lib" path="src/lib/selenium-server-4.19.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
